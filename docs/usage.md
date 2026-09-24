@@ -1,3 +1,7 @@
+---
+description: Rasterize a document to PNG, choose an adapter, set scale and background, and write the bitmap to a file or a string.
+---
+
 # Usage
 
 ## Rasterize a document

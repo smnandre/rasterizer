@@ -1,3 +1,7 @@
+---
+description: Run the suite with or without the rasterizer binaries installed, and see which groups need a real adapter on the machine.
+---
+
 # Testing
 
 The full PHPUnit suite runs with:
